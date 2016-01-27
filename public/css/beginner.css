@@ -1,0 +1,40 @@
+p{
+    font-size: 20px;
+    word-spacing: 2px;
+    line-height: 3px;
+    text-align: center;
+}
+h2{
+    font-size: 20px;
+    background-color: #000088;
+    margin: 10px;
+    padding: 10px;
+}
+li{
+    font-style: italic;
+    color:brown;
+}
+img{
+    border-style: dotted;
+    border-color: #006666;
+    border-width: 5px;
+    border-right-width: 10px;
+    border-left-width: 10px;
+}
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+    color: black;
+    background-color: #ffc;
+    margin: 20px;
+    padding: 0;
+}
+form{
+    font-size: 15px;
+    background-color:red;
+    border-style: dotted;
+    border-color: #006666;
+    border-width: 5px;
+    border-right-width: 10px;
+    border-left-width: 10px;
+}

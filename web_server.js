@@ -18,3 +18,10 @@ var io = xpress.io;
 app.get('/', function(req, res){
     res.render("index")
 })
+
+app.get('/beginner/apply', function(req, res){
+    res.render("beginner/apply")
+})
+app.get('/beginner/beginner', function(req, res) {
+    res.render("beginner/beginner")
+})
