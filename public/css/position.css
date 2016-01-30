@@ -1,0 +1,21 @@
+
+#position {
+    position: absolute;
+    margin: 30px 50px 100px 30px;
+    border: solid 10px red;
+    /*left: 0px;
+    top: -40px;*/
+}
+h2{
+    font-size: 20px;
+    background-color: #000088;
+    margin: 10px;
+    padding: 10px;
+}
+h2{
+    position: fixed;
+    left: -50px;
+    top: 0px;
+    width: 200px;
+
+}

@@ -1,0 +1,20 @@
+
+
+/**{
+    font-style: italic;
+}*/
+abbr[title] { border-bottom: 1px dotted red }
+#child > li { border: 1px solid red }
+
+p ~ p{
+    font-weight: bold;
+}
+/*
+input[type=text] { width: 400px; border: dotted red 10px }*/
+input[type=text] { border: 1px solid red }
+
+/*
+a[href^=http] {
+    padding-right: 10px;
+    /!*background: url(1.jpg) right no-repeat;*!/
+}*/

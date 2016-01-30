@@ -1,0 +1,13 @@
+h1 {
+    padding: 10px;
+    color: rgba(3, 3, 3, 0.8);
+}
+h2{
+    padding: 10px;
+    color: hsl(36,100%,50%);
+}
+
+h3{
+    padding: 10px;
+    color: hsla(120,75%,75%,0.5);
+}

@@ -1,0 +1,19 @@
+/*@import url(media2.css) print;*/
+
+h2{
+    margin: 20px;
+    padding: 20px;
+    /*border: solid red 10px;*/
+    background-color: #440044;
+}
+@media print {
+    body{
+        background-color: #fc8c84;
+    }
+
+}
+@media screen and (max-width: 100px) {
+
+    #content { width: 50% }
+
+}

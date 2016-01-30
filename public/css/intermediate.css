@@ -1,0 +1,111 @@
+/*
+h1, #class1, .class2{
+    color: blueviolet;
+}
+#top{
+    background-color: #666600;
+    padding: 10px;
+}
+#top h1{
+    color: #000066;
+}
+#top p{
+    color: #880000;
+}
+*/
+
+
+/*div#top p{
+    color: #880000;
+}
+a:link{
+    color: #880000;
+}
+a:hover{
+    color: #000099;
+}
+a:active{
+    color: #fc8c84;
+}*/
+/*
+div:first-child{
+    color: #880000;
+    font-style: italic;
+    font-size: larger;
+    background-color: #006600;
+}*/
+
+/*.class1{
+   /!* background-color: #fc8c84;*!/
+    margin: 60px 40px 40px 50px;
+    padding: 100px 50px;
+    border:greenyellow dashed 20px;
+    font: italic bold 12px/2 courier;
+    background-image: url("/images/1.jpg");
+    background-repeat: repeat-x;
+    background-position: center;
+}*/
+/*
+body{
+    background-image: url("/images/1.jpg");
+    background-repeat: repeat-y;
+    background-position: center;
+
+}*/
+
+/*div {
+    background-color: #fc8c84;
+}*/
+
+
+/*div.class4 p{*/
+    /*color: red;*/
+/*}*/
+/*div p{
+    color: #000088 ;
+    display: inline-block;
+}
+div{
+    background-color: #006600;
+    border-color: #fc8c84;
+    border-width: 5px;
+    border-style: dotted;
+}
+span p{
+    color: #000088 ;
+    display: block;
+
+}
+span{
+border-color: #fc8c84;
+border-width: 5px;
+border-style: dotted;
+}
+/!*
+div p{
+    color: gold;
+}
+*!/
+
+li:after {
+    content: "POW! ";
+    background: red;
+    color: #fc0;
+}*/
+
+/*.class4 p{*/
+    /*color: green;*/
+/*}*/
+
+
+#navigation {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 200px;
+}
+
+/*
+#content {
+    margin-left: 200px;
+}*/
